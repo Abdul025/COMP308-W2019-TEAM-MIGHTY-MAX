@@ -1,0 +1,11 @@
+{
+  "name": "comp308-w2019-team-project-mighty-max",
+  "version": "1.0.0",
+  "description": "Team Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MIGHTYMAX",
+  "license": "ISC"
+}
